@@ -1,0 +1,22 @@
+.image{
+    background-image: url(svg.svg);
+    background-size: cover;
+    margin-top: 14;
+    padding-top: 10rem;
+    padding-bottom: 300px;
+
+}
+.shreya{
+    border: 1px;
+    border-color: white;
+}
+.women{
+    background-image: url(bluebg.png);
+    position: relative;
+    /* background-position: center; */
+    background-size:cover;
+}
+
+.last{
+    background-image: url(footer-head-bg.990e26df.svg);
+}
